@@ -12,11 +12,12 @@ A console-based ATM application developed using Java. It allows users to perform
 ## Technology Used
 - Java ( Object - Oriented design with multiple classes )
 
-# Demo Credentials
+## Demo Credentials
 Account 1 -Rahul
 - User ID: 1001
 - ATM PIN: 1234
 - Initial balance: 10,000
+  
 Account 2 -Priya
 - User ID: 1002
 - ATM PIN: 2222
