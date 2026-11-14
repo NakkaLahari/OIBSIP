@@ -1,17 +1,18 @@
-# ATM Interface
+## Getting Started
 
-A Java-based ATM application developed using Java.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Features
-- Account balance checking
-- Cash withdrawal
-- Cash deposit
-- Transaction management
+## Folder Structure
 
-## Technology Used
-- Java
-- JDBC
-- MySQL
+The workspace contains two folders by default, where:
 
-## How to Run
-Open the project in VS Code and run the main Java class.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
+
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
